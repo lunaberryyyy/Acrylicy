@@ -8,6 +8,7 @@ Press enter at the end of the line and insert the following:
 },
 ```
 Place "fluentlypatches.css" in fluenty/src  
+  
 thats it!
 
 # Note 
