@@ -7,6 +7,9 @@ Press enter at the end of the line and insert the following:
 		"TargetCss": "src/fluentlypatches.css"
 },
 ```
+Place "fluentlypatches.css" in fluenty/src
+thats it!
+
 # Note 
 I'm not providing the actual theme as it costs money, you can pick up the base theme [here](https://steambrew.app/fluenty-steam)
 
